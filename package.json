@@ -75,7 +75,7 @@
   },
   "dependencies": {
     "@commercelayer/cli-core": "6.0.0-beta.5",
-    "@commercelayer/cli-ux": "2.0.0-beta.1",
+    "@commercelayer/cli-ux": "2.0.0-beta.2",
     "@commercelayer/sdk": "^7.9.0",
     "@oclif/core": "^4.9.0",
     "eventsource-parser": "^3.0.6",
