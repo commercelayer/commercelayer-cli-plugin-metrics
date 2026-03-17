@@ -1,3 +1,27 @@
+# [2.0.0-beta.1](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.5...v2.0.0-beta.1) (2026-03-17)
+
+
+* feat!: upgrade to oclif core v4 ([7a255b8](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/7a255b833af55bd06c1a969a208c26705af94949))
+
+
+### Bug Fixes
+
+* fix dependencies ([d1f02e1](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/d1f02e113ae24664c10044cf2ddf5d46a46dc1e9))
+* update dependencies ([1a0b993](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/1a0b99388b620d9b2a4a379c76fab6ce511755e2))
+* update dependencies ([f91d764](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/f91d76487c4d7c66f798fd79b2b54eb98edcc78f))
+* update dependencies ([16d2f19](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/16d2f197b67c2c07b92137ceafc6800c3c64c915))
+
+
+### Features
+
+* migrate to oclif core v4 ([9071e02](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/9071e02268e6846eaae9af3f12db93c5d2abeb77))
+
+
+### BREAKING CHANGES
+
+* upgrade to oclif core v4
+* migrate to oclif core v4
+
 ## [1.1.1-beta.1](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.0...v1.1.1-beta.1) (2026-03-16)
 ## [1.1.5](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.4...v1.1.5) (2026-03-17)
 
