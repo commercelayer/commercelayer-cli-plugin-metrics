@@ -9,13 +9,8 @@ importers:
   .:
     dependencies:
       '@commercelayer/cli-core':
-<<<<<<< HEAD
         specifier: 6.0.0-beta.5
         version: 6.0.0-beta.5(@oclif/core@4.9.0)
-=======
-        specifier: ^5.10.8
-        version: 5.10.8
->>>>>>> main
       '@commercelayer/cli-ux':
         specifier: 2.0.0-beta.2
         version: 2.0.0-beta.2(@oclif/core@4.9.0)
@@ -46,11 +41,7 @@ importers:
         version: 6.2.38
       '@oclif/test':
         specifier: ^4.1.16
-<<<<<<< HEAD
         version: 4.1.16(@oclif/core@4.9.0)
-=======
-        version: 4.1.16(@oclif/core@3.27.0)
->>>>>>> main
       '@semantic-release/changelog':
         specifier: ^6.0.3
         version: 6.0.3(semantic-release@25.0.3(typescript@5.9.3))
@@ -339,13 +330,8 @@ packages:
     resolution: {integrity: sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==}
     engines: {node: '>=0.1.90'}
 
-<<<<<<< HEAD
   '@commercelayer/cli-core@6.0.0-beta.5':
     resolution: {integrity: sha512-Xuhcs4tiga420qL8JspUL/imZEJNCoxCwtihFocEuvp7o52Onm4rgij09L52+NlBxXJpLMLaoc6uZfLOWvm7iQ==}
-=======
-  '@commercelayer/cli-core@5.10.8':
-    resolution: {integrity: sha512-n6ZmGSkiiJDoftQMDim3uY+R2+lb47aNw6rvG48PAnEPY5+Er5Red7qO7+/+YSTgPUXTe2LcNJnrj2zkSJKhzQ==}
->>>>>>> main
     engines: {node: '>=20'}
     peerDependencies:
       '@oclif/core': ^4
@@ -4837,11 +4823,7 @@ snapshots:
   '@colors/colors@1.5.0':
     optional: true
 
-<<<<<<< HEAD
   '@commercelayer/cli-core@6.0.0-beta.5(@oclif/core@4.9.0)':
-=======
-  '@commercelayer/cli-core@5.10.8':
->>>>>>> main
     dependencies:
       '@commercelayer/js-auth': 7.3.0
       '@oclif/core': 4.9.0
@@ -5309,15 +5291,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-<<<<<<< HEAD
   '@oclif/test@4.1.16(@oclif/core@4.9.0)':
     dependencies:
       '@oclif/core': 4.9.0
-=======
-  '@oclif/test@4.1.16(@oclif/core@3.27.0)':
-    dependencies:
-      '@oclif/core': 3.27.0
->>>>>>> main
       ansis: 3.17.0
       debug: 4.4.3(supports-color@8.1.1)
     transitivePeerDependencies:
