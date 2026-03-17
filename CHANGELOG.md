@@ -1,9 +1,40 @@
 ## [1.1.1-beta.1](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.0...v1.1.1-beta.1) (2026-03-16)
+## [1.1.5](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.4...v1.1.5) (2026-03-17)
 
 
 ### Bug Fixes
 
 * update dependencies ([16d2f19](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/16d2f197b67c2c07b92137ceafc6800c3c64c915))
+* fix metrics chat endpoint config ([7fed6c4](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/7fed6c4d61f0a5af7ff472860db1b8420e43ae5f))
+
+## [1.1.4](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.3...v1.1.4) (2026-03-16)
+
+
+### Bug Fixes
+
+* fix metrics chat endpoint ([8fc7067](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/8fc7067275851493d87aaff0c71bfd5626de4495))
+
+## [1.1.3](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.2...v1.1.3) (2026-03-16)
+
+
+### Bug Fixes
+
+* update cli core dependency ([7fbde51](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/7fbde51a37886052b3e1b86b158d5dbd47f9d2b6))
+
+## [1.1.2](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.1...v1.1.2) (2026-03-16)
+
+
+### Bug Fixes
+
+* ask chat hidden alias ([86a71a2](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/86a71a212e2360418ffab96d13e7b776eec9ca78))
+
+## [1.1.1](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.0...v1.1.1) (2026-03-16)
+
+
+### Bug Fixes
+
+* ask hidden aliases ([c6c6a7d](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/c6c6a7da106c54989ea9fcd6ecf89f59491d6da8))
+>>>>>>> main
 
 # [1.1.0](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.0.9...v1.1.0) (2026-03-13)
 
