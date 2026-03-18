@@ -1,3 +1,10 @@
+# [2.0.0-beta.4](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v2.0.0-beta.3...v2.0.0-beta.4) (2026-03-18)
+
+
+### Bug Fixes
+
+* fix markdown ([0a543e0](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/0a543e0e5f57ca7fd5feff58dcabbb670c218bef))
+
 # [2.0.0-beta.3](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v2.0.0-beta.2...v2.0.0-beta.3) (2026-03-18)
 
 
