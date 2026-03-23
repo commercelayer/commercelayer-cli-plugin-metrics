@@ -159,7 +159,7 @@ export default class MetricsAsk extends BaseCommand {
     if (response.status)
       switch (response.status) {
         case 404: {
-          errorMessage = 'Metrics Chat endpoint not found. Please check your configuration and try again.'
+          errorMessage = 'Metrics Chat endpoint not found.'
           break
         }
       }
@@ -170,7 +170,7 @@ export default class MetricsAsk extends BaseCommand {
           break
         }
         case '404 not found': {
-          errorMessage = 'Metrics Chat endpoint not found. Please check your configuration and try again.'
+          errorMessage = 'Metrics Chat endpoint not found.'
           break
         }
       }
