@@ -2,7 +2,6 @@ import { clColor, clConfig, clOutput, clToken, clUpdate } from '@commercelayer/c
 import * as cliux from '@commercelayer/cli-ux'
 import { CommerceLayerStatic } from '@commercelayer/sdk'
 import { Args, Command, Flags } from '@oclif/core'
-import type { CommandError } from '@oclif/core/lib/interfaces'
 import { type MetricsFilter, type MetricsQueryBreakdown, type MetricsQueryBreakdownResponse, operators, resources } from './common'
 
 
@@ -61,7 +60,7 @@ export abstract class BaseCommand extends Command {
           { suggestions: ['Execute login to get access to the organization\'s resources'] }
         )
       } else this.error(clOutput.formatError(error, flags))
-    } else return await super.catch(error as CommandError)
+    } else return await super.catch(error)
   }
 
 /*
