@@ -1,3 +1,15 @@
+# [2.0.0-oclif4.1](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.2.0...v2.0.0-oclif4.1) (2026-03-26)
+
+
+### Features
+
+* upgrade to oclif core v4 and node v22 ([16d11c6](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/16d11c6fa69bc3e67de627658fc31a5292702df1))
+
+
+### BREAKING CHANGES
+
+* upgrade to oclif core v4 and node v22
+
 # [1.2.0](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.7...v1.2.0) (2026-03-24)
 
 
