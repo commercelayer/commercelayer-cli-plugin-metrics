@@ -1,10 +1,22 @@
-## [1.2.1](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.2.0...v1.2.1) (2026-04-15)
+# [2.0.0-oclif4.2](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v2.0.0-oclif4.1...v2.0.0-oclif4.2) (2026-05-05)
 
 
 ### Bug Fixes
 
 * run tests in updates workflow ([045a532](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/045a53244f60b0e67f2e6b889f31bd6efbd8c2e9))
 * update dependencies and add updates workflow ([9121603](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/9121603e6ef092e4f88368d21eaefc64cd2d9e33))
+
+# [2.0.0-oclif4.1](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.2.0...v2.0.0-oclif4.1) (2026-03-26)
+
+
+### Features
+
+* upgrade to oclif core v4 and node v22 ([16d11c6](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/commit/16d11c6fa69bc3e67de627658fc31a5292702df1))
+
+
+### BREAKING CHANGES
+
+* upgrade to oclif core v4 and node v22
 
 # [1.2.0](https://github.com/commercelayer/commercelayer-cli-plugin-metrics/compare/v1.1.7...v1.2.0) (2026-03-24)
 
